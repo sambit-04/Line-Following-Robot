@@ -187,9 +187,11 @@ Now, since we have calibrated the robot, all we need to do is place the robot on
 ![App Screenshot](https://circuitdigest.com/sites/default/files/inlineimages/u3/Arduino%20Line%20Follower.jpg)
 
 ![App Screenshot](https://circuitdigest.com/sites/default/files/inlineimages/u3/Line-Follower-Robot-Project.jpg)
+
 ## Authors
 
 - [@sambit-04 (Sambit Mazumder)](https://github.com/sambit-04)
+- [@Siddhesh-96 (Siddhesh Mane)]([https://github.com/sambit-04](https://github.com/Siddhesh-96))
 
 
 ## License
